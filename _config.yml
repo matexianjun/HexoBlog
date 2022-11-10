@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: matexianjun
+title: 游由心
 subtitle: ''
-description: ''
+description: '路漫漫其修远兮吾将上下而求索'
 keywords:
 author: matexianjun
 language: cn
@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://matexianjun.github.io/blog/
+url: https://matexianjun.github.io/HexoBlog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -102,6 +102,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'git'
+  type: git
   repo: https://github.com/matexianjun/HexoBlog.git
   brance: gh-pages
